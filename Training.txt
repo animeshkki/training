@@ -6,10 +6,14 @@ Learning GIT pull
 editing the file to understand commit
 
 
+
 add new line
 
 new line 2
 
 
 new line 4
+
+
+Final update
 
