@@ -1,3 +1,6 @@
 Welcome to GIT training
 
 Learning GIT pull 
+
+
+editing the file to understand commit
